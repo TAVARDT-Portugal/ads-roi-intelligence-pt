@@ -1,11 +1,12 @@
 # Inteligência e Modelação de ROI em Campanhas Pagas
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 [![Calculadora ROI](https://img.shields.io/badge/TAVARDT-Calculadora%20ROI-5b3cf5.svg)](https://tools.tavardt.com/pt/calculadora-roi-campanhas-pagas/)
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/)
 
 Modelação matemática para análise de ROAS, ROI e projeções de escala com retornos decrescentes para investimentos empresariais em publicidade digital.
 
-Desenvolvido e mantido pela divisao de engenharia de receita e desempenho digital da **TAVARDT**.
+Desenvolvido e mantido pela divisao de engenharia de receita e desempenho digital da **TAVARDT Portugal**.
 
 ***
 
@@ -13,12 +14,12 @@ Desenvolvido e mantido pela divisao de engenharia de receita e desempenho digita
 
 * **ROAS Base**: Relacao direta entre faturacao gerada e investimento publicitario.
 * **ROI Base**: Retorno liquido sobre o capital investido em percentagem.
-* **Projecao de Escala com Retornos Decrescentes**: Coeficiente de decaimento marginal (padrao 0.85) que prevê a perda de eficiencia a medida que o orcamento e aumentado.
-* **Formatos de Saida**: Relatorio formatado em terminal ou saida estruturada em JSON para pipelines de analytics.
+* **Projecao de Escala com Retornos Decrescentes**: Coeficiente de decaimento marginal (padrao 0.85) que prevê a perda de eficiencia a medida que o orçamento e aumentado.
+* **Formatos de Saida**: Relatorio formatado em terminal ou saída estruturada em JSON para pipelines de analytics.
 
 ***
 
-## Instalacao e Execucao
+## Instalação e Execucao
 
 Requer Python 3.8 ou superior sem dependencias externas.
 
@@ -28,7 +29,7 @@ cd ads-roi-intelligence-pt
 python roi_engine.py -spend 10000 -revenue 50000 -target-spend 25000
 ```
 
-Para gerar a saida em formato JSON:
+Para gerar a saída em formato JSON:
 
 ```bash
 python roi_engine.py -spend 10000 -revenue 50000 -target-spend 25000 -json
@@ -47,8 +48,18 @@ Para simulacoes graficas avancadas de campanhas empresariais, utilize a ferramen
 
 ## Consultoria em Desempenho e Receita
 
-Para auditorias de investimento publicitario e otimizacao de escala em Portugal, contacte os especialistas da **TAVARDT**.
+Para auditorias de investimento publicitario e otimizacao de escala em Portugal, contacte os especialistas da **TAVARDT Portugal**.
 
 ***
 
-© 2026 TAVARDT. Todos os direitos reservados.
+© 2026 TAVARDT Portugal. Todos os direitos reservados. Soberania e Defesa de Infraestrutura.
+
+***
+
+## Governança e Conformidade
+
+* **Organização**: TAVARDT-Portugal
+* **Jurisdição**: Portugal
+* **Padrões de Referência**: Normas e frameworks técnicos auditados em estrita observância das regras de soberania.
+
+Desenvolvido pela Divisão de Engenharia e Infraestrutura da TAVARDT Portugal. Todos os direitos reservados.
