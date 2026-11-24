@@ -1,4 +1,4 @@
-# Inteligência e Modelação de ROI em Campanhas Pagas | TAVARDT Portugal
+# Inteligência e Modelação de ROI em Campanhas Pagas
 
 [![Calculadora ROI](https://img.shields.io/badge/TAVARDT-Calculadora%20ROI-5b3cf5.svg)](https://tools.tavardt.com/pt/calculadora-roi-campanhas-pagas/)
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/)
@@ -48,3 +48,7 @@ Para simulacoes graficas avancadas de campanhas empresariais, utilize a ferramen
 ## Consultoria em Desempenho e Receita
 
 Para auditorias de investimento publicitario e otimizacao de escala em Portugal, contacte os especialistas da **TAVARDT Portugal**.
+
+***
+
+© 2026 TAVARDT. Todos os direitos reservados.
