@@ -5,7 +5,7 @@
 
 Modelação matemática para análise de ROAS, ROI e projeções de escala com retornos decrescentes para investimentos empresariais em publicidade digital.
 
-Desenvolvido e mantido pela divisao de engenharia de receita e desempenho digital da **TAVARDT Portugal**.
+Desenvolvido e mantido pela divisao de engenharia de receita e desempenho digital da **TAVARDT**.
 
 ***
 
@@ -41,13 +41,13 @@ python roi_engine.py -spend 10000 -revenue 50000 -target-spend 25000 -json
 Para simulacoes graficas avancadas de campanhas empresariais, utilize a ferramenta oficial:
 
 * **Calculadora de ROI de Campanhas Pagas**
-* **[Portal Corporativo TAVARDT Portugal](https://ag.tavardt.com/pt/)**
+* **[Portal Corporativo TAVARDT](https://ag.tavardt.com/pt/)**
 
 ***
 
 ## Consultoria em Desempenho e Receita
 
-Para auditorias de investimento publicitario e otimizacao de escala em Portugal, contacte os especialistas da **TAVARDT Portugal**.
+Para auditorias de investimento publicitario e otimizacao de escala em Portugal, contacte os especialistas da **TAVARDT**.
 
 ***
 
