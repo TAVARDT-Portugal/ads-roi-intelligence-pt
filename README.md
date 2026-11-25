@@ -1,8 +1,8 @@
 # Inteligência e Modelação de ROI em Campanhas Pagas
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 [![Calculadora ROI](https://img.shields.io/badge/TAVARDT-Calculadora%20ROI-5b3cf5.svg)](https://tools.tavardt.com/pt/calculadora-roi-campanhas-pagas/)
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
 Modelação matemática para análise de ROAS, ROI e projeções de escala com retornos decrescentes para investimentos empresariais em publicidade digital.
 
@@ -37,15 +37,6 @@ python roi_engine.py -spend 10000 -revenue 50000 -target-spend 25000 -json
 
 ***
 
-## Calculadora Interativa na Web
-
-Para simulacoes graficas avancadas de campanhas empresariais, utilize a ferramenta oficial:
-
-* **Calculadora de ROI de Campanhas Pagas**
-* **[Portal Corporativo TAVARDT](https://ag.tavardt.com/pt/)**
-
-***
-
 ## Consultoria em Desempenho e Receita
 
 Para auditorias de investimento publicitario e otimizacao de escala em Portugal, contacte os especialistas da **TAVARDT Portugal**.
@@ -61,7 +52,7 @@ Para auditorias de investimento publicitario e otimizacao de escala em Portugal,
 ***
 
 ### Licença
-Distribuído sob a Licença MIT. Consulte o ficheiro [LICENSE](LICENSE) para obter detalhes completos.
+Distribuído sob a Licença MIT.
 
 ***
 
