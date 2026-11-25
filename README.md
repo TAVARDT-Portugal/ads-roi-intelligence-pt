@@ -6,8 +6,6 @@
 
 Modelação matemática para análise de ROAS, ROI e projeções de escala com retornos decrescentes para investimentos empresariais em publicidade digital.
 
-Desenvolvido e mantido pela divisao de engenharia de receita e desempenho digital da **TAVARDT Portugal**.
-
 ***
 
 ## Modelação Matematica e Metricas
